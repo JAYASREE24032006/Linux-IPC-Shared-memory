@@ -1,19 +1,19 @@
-# EX6 - Linux-IPC-Shared-memory
+# EX6 - PROGRAM THAT ILLUSTRATES TWO PROCESSES COMMUNICATING USING SHARED MEMORY
 
 ## AIM :
 To Write a C program that illustrates two processes communicating using shared memory.
 
 ## DESIGN STEPS :
 
-### Step 1 :
+### STEP 1 :
 
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
 
-### Step 2 :
+### STEP 2 :
 
 Write the C Program using Linux Process API - Shared Memory
 
-### Step 3 :
+### STEP 3 :
 
 Execute the C Program for the desired output. 
 
@@ -47,4 +47,4 @@ int main()
 
 
 ## RESULT :
-The program is executed successfully.
+The  C program that illustrates two processes communicating using shared memory is executed successfully.
